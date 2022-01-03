@@ -700,11 +700,6 @@ ee-first@1.1.1, ee-first@~1.1.1:
   resolved "https://registry.npmjs.org/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
-ejs@^2.6.1:
-  version "2.7.4"
-  resolved "https://registry.npmjs.org/ejs/-/ejs-2.7.4.tgz#48661287573dcc53e366c7a1ae52c3a120eec9ba"
-  integrity sha512-7vmuyh5+kuUyJKePhQfRQBhXV5Ce+RnaeeQArKu1EAMpL3WbgMt5WG6uQZpEVvYSSsxMXRKOewtDk9RaTKXRlA==
-
 ejs@^3.1.6:
   version "3.1.6"
   resolved "https://registry.yarnpkg.com/ejs/-/ejs-3.1.6.tgz#5bfd0a0689743bb5268b3550cceeebbc1702822a"
@@ -2816,17 +2811,17 @@ yargs@^12.0.2:
     y18n "^3.2.1 || ^4.0.0"
     yargs-parser "^11.1.1"
 
-yuque-hexo@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.npmjs.org/yuque-hexo/-/yuque-hexo-1.7.0.tgz#012f70f0f83a9383a87fa6ce45be90ee9128f8e5"
-  integrity sha512-jTcDqRTN9IM62BTVvucntbJnUaWjzbnKm1Mr1LvSF8nLJQxVv5VKpQwoOIbl4IsY9W+qLRfftZ6tZGLXb2t9Kg==
+yuque-hexo@^1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/yuque-hexo/-/yuque-hexo-1.8.0.tgz#c67167edaacd95a04d8364c8599919c019724cfe"
+  integrity sha512-XoZkOukLMpz7dgKSE4rGy7OCB0Z7m6ClaKw57T0zOkOIZ1dEg24fsrS+EXfKNAejJTjrGlvdn0u+aKa+McqwRw==
   dependencies:
     "@yuque/sdk" "^1.1.1"
     chalk "^2.4.1"
     common-bin "^2.7.3"
     debug "^3.1.0"
     depd "^2.0.0"
-    ejs "^2.6.1"
+    ejs "^3.1.6"
     filenamify "^4.1.0"
     hexo-front-matter "^0.2.3"
     html-entities "^1.2.1"
