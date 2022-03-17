@@ -6,13 +6,13 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server",
+    "serve": "hexo server",
     "sync": "yuque-hexo sync",
     "clean:yuque": "yuque-hexo clean",
     "build:yuque": "npm run sync && hexo clean && hexo g"
   },
   "hexo": {
-    "version": "5.4.0"
+    "version": "6.0.0"
   },
   "yuqueConfig": {
     "baseUrl": "https://www.yuque.com/api/v2",
