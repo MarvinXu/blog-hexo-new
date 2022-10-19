@@ -32,6 +32,6 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
     "hexo-theme-next": "^8.6.1",
-    "yuque-hexo": "^1.7.0"
+    "yuque-hexo": "^1.9.5"
   }
 }
