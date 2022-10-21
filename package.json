@@ -12,7 +12,7 @@
     "build:yuque": "npm run sync && hexo clean && hexo g"
   },
   "hexo": {
-    "version": "6.0.0"
+    "version": "6.3.0"
   },
   "yuqueConfig": {
     "baseUrl": "https://www.yuque.com/api/v2",
